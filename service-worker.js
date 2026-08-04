@@ -6,9 +6,9 @@ const appShell = [
   "./app.js",
   "./manifest.webmanifest",
   "./manifest-v10.webmanifest",
-  "./icons/weiguang-gemini-v10-180.png",
-  "./icons/weiguang-gemini-v10-192.png",
-  "./icons/weiguang-gemini-v10-512.png"
+  "./weiguang-gemini-v10-180.png",
+  "./weiguang-gemini-v10-192.png",
+  "./weiguang-gemini-v10-512.png"
 ];
 
 self.addEventListener("install", (event) => {
